@@ -51,10 +51,10 @@ class _HomePageState extends State<HomePage> {
           backgroundColor: Colors.transparent,
           elevation: 0,
           leading: Padding(
-            padding: const EdgeInsets.only(left: 24.0),
+            padding: const EdgeInsets.only(left: 7.0),
             child: IconButton(
               icon: Icon(
-                Icons.menu,
+                Icons.donut_small_outlined,
                 color: Colors.grey[800],
                 size: 36,
               ),
